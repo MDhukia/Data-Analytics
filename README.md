@@ -61,8 +61,8 @@ Active Employees = SUM('HR Data'[Employee Count]) + SUM('HR Data'[Attrition Coun
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](images/images/Dashboard_overview.png)
+![Dashboard Overview](images/images/dashboard_overview.png)
 
 ### Example KPI
-![Dashboard Overview](images/images/Dashboard_overview.png)
+![Dashboard Overview](images/images/dashboard_overview.png)
 
