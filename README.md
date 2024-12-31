@@ -3,8 +3,6 @@
 ## **Overview**  
 This repository contains the Power BI dashboard designed for HR analytics. The dashboard includes key performance indicators (KPIs), charts, and interactive features to analyze employee data such as attrition, active employees, average age, and departmental attrition.
 
----
-
 ## **Features**  
 
 ### **1. KPIs**  
@@ -24,8 +22,6 @@ This repository contains the Power BI dashboard designed for HR analytics. The d
 ### **3. Interactivity**  
 - Dynamic slicers for education levels.  
 - Filters and highlights for cross-chart interactions.  
-
----
 
 ## **Setup Instructions**  
 
@@ -50,15 +46,11 @@ Follow the steps below to design the dashboard:
 1. Include slicers for education and apply formatting.  
 2. Enable **Edit Interactions** to make visuals dynamic and responsive.  
 
----
-
 ## **Repository Contents**  
 - `HR_Analytics.pbix`: The Power BI file containing the designed dashboard.  
 - `data/`: Folder containing the HR dataset (CSV/Excel format).  
 - `README.md`: This documentation file.  
 - `images/`: Screenshots of the dashboard (for visualization).  
-
----
 
 ## **Formulas Used**  
 
