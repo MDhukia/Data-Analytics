@@ -57,3 +57,12 @@ Follow the steps below to design the dashboard:
 ```DAX
 Attrition Rate = SUM('HR Data'[Attrition Count]) / SUM('HR Data'[Employee Count])
 Active Employees = SUM('HR Data'[Employee Count]) + SUM('HR Data'[Attrition Count])
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+### Example KPI
+![Example KPI](images/kpi_example.png)
+
