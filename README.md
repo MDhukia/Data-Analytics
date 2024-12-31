@@ -53,11 +53,7 @@ Follow the steps below to design the dashboard:
 - `images/`: Screenshots of the dashboard (for visualization).  
 
 ## **Formulas Used**  
-
-### **Attrition Rate**  
+ 
 ```DAX
 Attrition Rate = SUM('HR Data'[Attrition Count]) / SUM('HR Data'[Employee Count])
-
-###  **Active Employees**
-```DAX
 Active Employees = SUM('HR Data'[Employee Count]) + SUM('HR Data'[Attrition Count])
