@@ -47,11 +47,7 @@ Follow the steps below to design the dashboard:
 2. Enable **Edit Interactions** to make visuals dynamic and responsive.  
   
 
-## **Formulas Used**  
- 
-```DAX
-Attrition Rate = SUM('HR Data'[Attrition Count]) / SUM('HR Data'[Employee Count])
-Active Employees = SUM('HR Data'[Employee Count]) + SUM('HR Data'[Attrition Count])
+
 
 
 
