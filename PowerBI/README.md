@@ -45,12 +45,7 @@ Follow the steps below to design the dashboard:
 #### **Step 3: Add Interactivity**  
 1. Include slicers for education and apply formatting.  
 2. Enable **Edit Interactions** to make visuals dynamic and responsive.  
-
-## **Repository Contents**  
-- `HR_Analytics.pbix`: The Power BI file containing the designed dashboard.  
-- `data/`: Folder containing the HR dataset (CSV/Excel format).  
-- `README.md`: This documentation file.  
-- `images/`: Screenshots of the dashboard (for visualization).  
+  
 
 ## **Formulas Used**  
  
@@ -58,11 +53,5 @@ Follow the steps below to design the dashboard:
 Attrition Rate = SUM('HR Data'[Attrition Count]) / SUM('HR Data'[Employee Count])
 Active Employees = SUM('HR Data'[Employee Count]) + SUM('HR Data'[Attrition Count])
 
-## Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](https://github.com/MDhukia/Data-Analytics/blob/main/images/dashboard_overview.png)
-
-### Example KPI
-![Dashboard Overview](https://github.com/MDhukia/Data-Analytics/blob/main/images/dashboard_overview.png)
 
