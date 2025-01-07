@@ -52,8 +52,6 @@ This project provides an end-to-end data analysis solution to extract critical b
      - Analyzing peak sales periods and customer buying patterns.
      - Profit margin analysis by branch and category.
 
----
-
 ## Results
 ### Key Insights
 1. **Revenue Trends**: The revenue trends highlighted seasonal spikes during holiday periods, with branch-specific variations.
@@ -62,7 +60,6 @@ This project provides an end-to-end data analysis solution to extract critical b
 4. **Peak Hours**: Evening shifts consistently saw the highest transaction volumes.
 5. **Profit Analysis**: Branches with high revenue didn’t necessarily correspond to higher profit margins, highlighting the need for optimized pricing.
 
----
 
 
 
