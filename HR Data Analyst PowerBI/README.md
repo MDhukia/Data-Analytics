@@ -1,4 +1,5 @@
 # **HR Analytics Dashboard**
+![dashboard_overview](https://github.com/user-attachments/assets/e0fdb496-32c5-427b-9d49-31d2217086d1)
 
 ## **Overview**  
 This repository contains the Power BI dashboard designed for HR analytics. The dashboard includes key performance indicators (KPIs), charts, and interactive features to analyze employee data such as attrition, active employees, average age, and departmental attrition.
