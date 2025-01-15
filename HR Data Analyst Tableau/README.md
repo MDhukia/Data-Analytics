@@ -1,5 +1,5 @@
 # Tableau Dashboard HR Data Analytics 
-
+![Tableau Dashboard HR  Data Analytics](https://github.com/user-attachments/assets/e3e5d249-3a2f-4af7-ae87-de3a3c018094)
 ## Overview
 The HR Analytics Dashboard is designed to provide a detailed analysis of workforce trends, focusing on attrition, demographics, and satisfaction levels. This Tableau dashboard helps HR professionals and decision-makers understand key metrics, such as the total workforce, attrition trends, and satisfaction levels, to make informed decisions.
 
